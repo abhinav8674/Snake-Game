@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.abhi{
+    font-size: 50px;
+    font-weight: bold;
+    color: green;
+}
+#board{
+    background-color: rgb(123, 230, 123);
+    max-height: 300px;
+}
+.game{
+    background-color: rgb(160, 231, 231);
+}
